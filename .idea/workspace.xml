@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1022d54a-2dfc-4118-9626-cbc1cb775dff" name="Changes" comment="" />
+    <list default="true" id="1022d54a-2dfc-4118-9626-cbc1cb775dff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Amarioo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Amarioo/show-max7219-rasp4.git",
+    "accountId": "10ff44ce-6720-4ab4-a28a-36bac068aa1f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
